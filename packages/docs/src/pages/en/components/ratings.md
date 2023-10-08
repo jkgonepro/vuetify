@@ -28,6 +28,10 @@ The `v-rating` component provides a simple interface for gathering user feedback
 
 <entry />
 
+### Good to know
+
+If your star icons don't show up, make sure you've ran `npm install @mdi/font` and added in your `main.js` file `import '@mdi/font/css/materialdesignicons.css'` (or `plugins/vueitfy.js`)
+
 ## API
 
 | Component | Description |
